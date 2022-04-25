@@ -8,8 +8,6 @@ title: My GitHub
 
 - [Knowledge](https://github.com/DmytroLitvinov/knowledge) - Everything I know.
 - [Personal Website](https://github.com/DmytroLitvinov/DmytroLitvinov.github.io) - My personal website on the internet.
-- [My iOS](https://github.com/DmytroLitvinov/my-ios) - List of applications and tools that make my iOS experience even more amazing.
-- [My macOS](https://github.com/DmytroLitvinov/my-mac-os) - List of applications and tools that make my macOS experience even more amazing.
 
 ## Python Libraries
 
