@@ -11,4 +11,4 @@ I do them with personal trainer who prepare a plan of work
 I also try to do some cardio exercises to keep my body in shape. 
 I started to do cardio exercises for 30-40 minutes a day in the morning on an empty stomach (when sugar level is low).
 Angle of inclination of 6, 10 and 15 and walking speed of 5.6 km/h. 
-Changing each angle after 2 minutes On angle of inclination 15 - trying to do 3 minutes.
+Changing each angle after 2 minutes. On angle of inclination 15 - trying to do 3 minutes.
