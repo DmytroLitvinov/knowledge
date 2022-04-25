@@ -15,3 +15,7 @@ defaults delete com.apple.dock autohide-delay
 defaults delete com.apple.dock autohide-time-modifier
 killall Dock
 ```
+
+## Apps
+
+- [Font Smoothing Adjuster](https://www.fontsmoothingadjuster.com/) - disable it according to article ["Time to upgrade your monitor"](https://tonsky.me/blog/monitors/)

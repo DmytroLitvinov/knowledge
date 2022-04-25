@@ -14,3 +14,4 @@ title: Python
 - [Async Python is not faster (2020)](https://calpaterson.com/async-python-is-not-faster.html)
 - [Strict Python function parameters](https://sethmlarson.dev/blog/strict-python-function-parameters)
 - [How We Migrated from Python Multithreading to Asyncio (2022)](https://medium.com/@DorIndivo/how-we-migrated-from-python-multithreading-to-asyncio-128b0c8e4ec5)
+- [Fixing Memory Leaks In Popular Python Libraries (2021)](https://www.paulsprogrammingnotes.com/2021/12/python-memory-leaks) - `socket.shutdown` problem in code
