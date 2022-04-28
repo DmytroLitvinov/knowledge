@@ -10,3 +10,4 @@ It includes:
 - [Test & Code in Python](https://testandcode.com/) - Topics include automated testing, testing strategy, software engineering practices, packaging, Python, pytest, data science, TDD, continuous integration, and software methodologies.
 - [Podlodka Podcast](https://podlodka.io/) - A weekly audio show about IT and everything related to it.
 - [Голый землекоп](https://libolibo.ru/zemlekop) - The podcast talks about scientific discoveries, talks to the people who make them, and answers questions.
+- [Compiler](https://www.redhat.com/en/compiler-podcast) - An original podcast from Red Hat.
