@@ -26,7 +26,7 @@ const config = {
           routeBasePath: "/",
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/DmytroLitvinov/knowledge/tree/main/",
         },
         blog: false,
         theme: {
@@ -82,13 +82,13 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      // algolia: {
-      //   // Application ID provided by Algolia
-      //   appId: "",
-      //   // Public API key
-      //   apiKey: "",
-      //   indexName: "",
-      // },
+      algolia: {
+        // Application ID provided by Algolia
+        appId: "LH81A7W5TI",
+        // Public API key
+        apiKey: "172054f817aafe55bf75d05501a183b8",
+        indexName: "dmytrolitvinov",
+      },
     }),
 };
 
