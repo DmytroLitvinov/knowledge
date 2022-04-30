@@ -16,3 +16,4 @@ title: Python
 - [How We Migrated from Python Multithreading to Asyncio (2022)](https://medium.com/@DorIndivo/how-we-migrated-from-python-multithreading-to-asyncio-128b0c8e4ec5)
 - [Fixing Memory Leaks In Popular Python Libraries (2021)](https://www.paulsprogrammingnotes.com/2021/12/python-memory-leaks) - `socket.shutdown` problem in code
 - [Ned Batchelder: Python Names and Values (2015)](https://nedbatchelder.com/text/names1.html)
+- [Python behind the scenes](https://tenthousandmeters.com/tag/python-behind-the-scenes/) - series of articles from Victor
