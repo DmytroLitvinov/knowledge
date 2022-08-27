@@ -10,3 +10,8 @@ The order of items in sidebar is alphabetical.
 - [Michael Heap: TIL](https://michaelheap.com/til/)
 - [Simon Willison: TIL](https://til.simonwillison.net/) ([Code](https://github.com/simonw/til))
 - [Best of Digital Gardens of GitHub](https://github.com/lyz-code/best-of-digital-gardens)
+
+
+## Links
+
+- [Learn In Public](https://www.swyx.io/learn-in-public/)

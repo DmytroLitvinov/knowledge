@@ -30,3 +30,12 @@ killall Dock
 - [Warp by CloudFlare](https://1.1.1.1/)
 - [HazeOver](https://hazeover.com/) - turn distractions down and focus on your current task
 - [Maccy](https://maccy.app/) - a macOS app to manage your clipboard
+- [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
+
+## Links
+- [My 2022 New Mac Setup](https://www.swyx.io/new-mac-setup/)
+- [Как называть файлы](https://t.me/telelater/107) - only latin letters, only hyphen as separator and add prefix yyyy-mm-dd in case of tracking change of date 
+- [Is Setapp subscription better than buying software?](https://seva.rocks/post/setappeng.html)
+- [macOS Monterey: Setting up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
+- [THE BEST Mac Terminal Setup for 2022](https://bdarfler.medium.com/the-best-mac-terminal-setup-for-2022-44bf6e3c1a6e)
+- [Hardening macOS](https://www.bejarano.io/hardening-macos/)

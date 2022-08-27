@@ -17,3 +17,8 @@ title: Python
 - [Fixing Memory Leaks In Popular Python Libraries (2021)](https://www.paulsprogrammingnotes.com/2021/12/python-memory-leaks) - `socket.shutdown` problem in code
 - [Ned Batchelder: Python Names and Values (2015)](https://nedbatchelder.com/text/names1.html)
 - [Python behind the scenes](https://tenthousandmeters.com/tag/python-behind-the-scenes/) - series of articles from Victor
+- [Sync vs. Async Python: What is the Difference? (2020)](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
+- [How to Create a Transparent Attribute Alias in Python (2021)](https://adamj.eu/tech/2021/10/13/how-to-create-a-transparent-attribute-alias-in-python/)
+- [Python Design Patterns](https://python-patterns.guide/)
+- [Managing Python versions with pyenv](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
+- [syntactic sugar by Brett Cannon](https://snarky.ca/tag/syntactic-sugar/)
