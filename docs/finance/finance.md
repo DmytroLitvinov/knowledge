@@ -4,9 +4,9 @@ I registered an account at [Interactive Brokers](https://ibkr.com/referral/dmytr
 Planning to buy some Irish stocks for long-term (10-15 years). 
 
 Also have some stocks in [mono invest](https://www.monobank.ua/invest) - do not plan to use it as a main source of funds. 
-Have not decided yet what to buy and how to use it in future so just invest small amount of money
+Have not decided yet what to buy and how to use it in future so just invest small amount of money.
 
-I have an account at [non-government pension Fund "Dynasty"](https://dynasty.icu/). [Here](https://portal.acpo.com.ua/) I check my balance.
+I have an account at [non-government pension Fund "Dynasty"](https://dynasty.icu/). I check my balance [here](https://portal.acpo.com.ua/).
 
 **About cryptos:**
 
