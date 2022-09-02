@@ -22,3 +22,4 @@ title: Python
 - [Python Design Patterns](https://python-patterns.guide/)
 - [Managing Python versions with pyenv](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
 - [syntactic sugar by Brett Cannon](https://snarky.ca/tag/syntactic-sugar/)
+- [Setting up a Private PyPI Server (2022)](https://testdriven.io/blog/private-pypi/)
