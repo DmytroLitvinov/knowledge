@@ -6,7 +6,7 @@ TED talk by Daniel Kahneman "The riddle of experience vs. memory".
 
 ## Work
 
-Completely upgraded our management tool at SoftFormance Redmine@4.0.5 to 4.2.7. Installed the plugins to integrate
+Completely upgraded our management tool at SoftFormance Redmine 4.0.5 to 4.2.7. Installed the plugins to integrate
 billable hours at Redmine so our employees can log hours in clients' tickets instead of 
 creating Lab ticket in separate project.
 
