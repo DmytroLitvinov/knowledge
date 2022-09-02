@@ -28,3 +28,4 @@ I guess I will keep some coins for my retirement like BTC, ETH, BNB, SOL, DOT, N
 
 - [Психологія інвестування: який ви інвестор, як перестати сумніватися і почати інвестувати](https://youtu.be/Yu_K7wmN5sM?list=PLY52UV8pdqhIJF9CL6BOSD_8y0wiZCxCU)
 - [Bogleheads 3 Fund Portfolio Review and Vanguard ETFs To Use](https://www.optimizedportfolio.com/bogleheads-3-fund-portfolio/)
+- [Чому Вам потрібен регулярний відпочинок, а Вашому інвестиційному портфелю ребаланс?](https://t.me/ELytsar/469) - rebalance should 1-2 times a year by time or by deviation from goal
