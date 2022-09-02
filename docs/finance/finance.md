@@ -27,4 +27,4 @@ I guess I will keep some coins for my retirement like BTC, ETH, BNB, SOL, DOT, N
 ## Links
 
 - [Психологія інвестування: який ви інвестор, як перестати сумніватися і почати інвестувати](https://youtu.be/Yu_K7wmN5sM?list=PLY52UV8pdqhIJF9CL6BOSD_8y0wiZCxCU)
-- [](https://www.optimizedportfolio.com/bogleheads-3-fund-portfolio/)
+- [Bogleheads 3 Fund Portfolio Review and Vanguard ETFs To Use](https://www.optimizedportfolio.com/bogleheads-3-fund-portfolio/)
