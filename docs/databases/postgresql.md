@@ -15,3 +15,4 @@ export CPPFLAGS="-I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/lib
 
 - [Five Tips For a Healthier Postgres Database in the New Year (2021)](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
 - [PostgreSQL collation](https://solovyov.net/blog/2022/postgresql-collation/)
+- [Postgres Tips & Tricks](https://www.crunchydata.com/postgres-tips)
