@@ -21,3 +21,6 @@ I use it daily for my Python development.
 - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 - [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements)
 - [Yet another emoji support](https://plugins.jetbrains.com/plugin/12512-yet-another-emoji-support)
+- [Find Pull Request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
+- [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink)
+- [https://plugins.jetbrains.com/plugin/9792-key-promoter-x](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
