@@ -12,6 +12,8 @@ creating Lab ticket in separate project.
 
 Continue adding more linters for backend. As an example added `django-migrations-formatter` and `django-urlconfchecks`
 
+Last, but not least: we have started Tech digest at SoftFormance. I am trying to do it 1-2 times a month.
+
 ## Other
 
 Received my MacBook with new LCD according to a warranty.
