@@ -1,5 +1,9 @@
 # 2022 September
 
+## Seen
+
+Started to watch TV series "Resident Alien". I find it funny 😀
+
 ## Work
 
 Released Supplier Dashboard redesign at Gryps project on 1st of September. 
