@@ -1,3 +1,7 @@
+---
+title: Redis
+---
+
 # [Redis](https://redis.io/)
 
 ## Links
