@@ -1,5 +1,5 @@
 ---
-title: Celery
+title: Channels
 ---
 
 # [Channels](https://channels.readthedocs.io/en/latest/)
