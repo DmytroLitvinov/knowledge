@@ -3,7 +3,7 @@
 ## Seen
 
 Started to watch TV series "Resident Alien". I find it funny 😀
-Finally, continue to watch "House of Dragon"
+Finally, continue to watch [House of the Dragon](https://trakt.tv/shows/house-of-the-dragon)
 
 ## Work
 
