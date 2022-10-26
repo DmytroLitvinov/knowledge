@@ -26,3 +26,5 @@ Also noted at Django docs at ["Lookups that span relationships"](https://docs.dj
 - [How to Use Materialized View in Django](https://medium.com/analytics-vidhya/how-to-use-materialized-view-in-django-3b91f71f718a)
 - [The definitive guide to modeling polymorphism in Django](https://confuzeus.com/hub/django-web-framework/model-polymorphism/)
 - [Where to put business logic in Django?](https://forum.djangoproject.com/t/where-to-put-business-logic-in-django/282)
+- [https://schinckel.net/2021/07/14/django-implied-relationship/](https://schinckel.net/2021/07/14/django-implied-relationship/)
+- [Django models, encapsulation and data integrity](https://www.dabapps.com/blog/django-models-and-encapsulation/) - Never write to a model field or call `save()` directly. Always use model methods and manager methods for state changing operations.

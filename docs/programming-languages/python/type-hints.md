@@ -21,7 +21,8 @@ from [PEP 484](https://peps.python.org/pep-0484/) which provides the standard se
 - [TIL: typing.Protocol Across Python Versions](https://hynek.me/til/typing-protocol/)
 - [I Want A New Duck (2020)](https://glyph.twistedmatrix.com/2020/07/new-duck.html) - `typing.Protocol` and the future of duck typing
 - [Use immutable collections as annotations whenever possible.](https://twitter.com/raymondh/status/1566569890600943616) - prefer `def sum_valid(data: Sequence[int | None]):` over `def sum_valid(data: list[int | None]):`
-
+- [Fully-typed Python decorator with optional arguments](https://lemonfold.io/posts/2022/dbc/typed_decorator/)
+- [Exhaustiveness Checking with Mypy](https://hakibenita.com/python-mypy-exhaustive-checking)
 
 ## Packages
 

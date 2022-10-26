@@ -24,3 +24,6 @@ title: Python
 - [syntactic sugar by Brett Cannon](https://snarky.ca/tag/syntactic-sugar/)
 - [Setting up a Private PyPI Server (2022)](https://testdriven.io/blog/private-pypi/)
 - [Unravelling Python's classes (2022)](https://snarky.ca/unravelling-pythons-classes/)
+- [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
+- [Raising exceptions or returning error objects in Python](https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/)
+- [Daily dose of Python](https://jerry-git.github.io/daily-dose-of-python/) - Slightly more advanced Python tips and tricks in easy to digest format.
