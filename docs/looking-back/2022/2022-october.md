@@ -13,4 +13,5 @@ like [auto-warlus](https://github.com/MarcoGorelli/auto-walrus) and other Django
 ## Other
 
 Fed squirrels in a forest. And we gave our 2nd performance in the war time. All raised money went to territorial defense
-of city Ternivka. 
+of city Ternivka.  Also, preordered [EcoFlow RIVER 2](https://ecoflowukraine.com/zariadna-stantsiia-ecoflow-river-2/)
+in case of blackout emergency plan. 

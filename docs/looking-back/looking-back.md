@@ -10,3 +10,4 @@ I do monthly reflections on life here.
 - [July](2022/2022-july.md)
 - [August](2022/2022-august.md)
 - [September](2022/2022-september.md)
+- [October](2022/2022-october.md)
