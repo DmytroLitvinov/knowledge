@@ -70,3 +70,9 @@ They will be grouped by topics.
 
 - [django-storages](https://pypi.org/project/django-storages/)
 - [django-private-storage](https://pypi.org/project/django-private-storage/)
+
+
+### Generics
+
+- [django-generic-helpers](https://pypi.org/project/django-generic-helpers/)
+- [django-generic-plus](https://pypi.org/project/django-generic-plus/)
