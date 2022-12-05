@@ -31,6 +31,10 @@ killall Dock
 - [HazeOver](https://hazeover.com/) - turn distractions down and focus on your current task
 - [Maccy](https://maccy.app/) - a macOS app to manage your clipboard
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
+- [Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use
+- [Hand Mirror](https://handmirror.app/) - A one-click camera check, right from the menu bar
+- [Presentify](https://presentify.compzets.com/) - Helps you give better presentations
+- [shottr](https://shottr.cc/) - Replacement of default macOS screenshot tool
 
 ## Links
 - [My 2022 New Mac Setup](https://www.swyx.io/new-mac-setup/)
@@ -39,3 +43,4 @@ killall Dock
 - [macOS Monterey: Setting up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
 - [THE BEST Mac Terminal Setup for 2022](https://bdarfler.medium.com/the-best-mac-terminal-setup-for-2022-44bf6e3c1a6e)
 - [Hardening macOS](https://www.bejarano.io/hardening-macos/)
+- [Как я MacOS настроил под себя (2022)](https://vas3k.club/post/17150/)

@@ -11,10 +11,12 @@ They will be grouped by topics.
 
 - [django-auth-db-router](https://pypi.org/project/django-auth-db-router/)
 - [django-allauth](https://pypi.org/project/django-allauth/)
+- [django-dual-authentication](https://pypi.org/project/django-dual-authentication/)
 
 
 ### Admin
 
+- [django-hide-admin](https://pypi.org/project/django-hide-admin/)
 - [django-nonrelated-inlines](https://pypi.org/project/django-nonrelated-inlines/)
 - [django-admin-views](https://pypi.org/project/django-admin-views/)
 - [django-admin-data-views](https://pypi.org/project/django-admin-data-views/)
@@ -33,6 +35,7 @@ They will be grouped by topics.
 - [django-admin-export-action](https://pypi.org/project/django-admin-export-action/)
 - [django-nested-admin](https://pypi.org/project/django-nested-admin/)
 - [django-admin-relation-links](https://pypi.org/project/django-admin-relation-links/)
+- [django-command-palette](https://pypi.org/project/django-command-palette/) - 
 
 
 ### PostgreSQL specific
@@ -47,7 +50,10 @@ They will be grouped by topics.
 
 - [django-entangled](https://github.com/jrief/django-entangled)
 - [django-privates](https://pypi.org/project/django-privates/) - Login-protected `FileField`
-  - [file-validator](https://pypi.org/project/file-validator/) - 
+- [file-validator](https://pypi.org/project/file-validator/) - Safe way to validate your files
+- [django-pydantic-field](https://pypi.org/project/django-pydantic-field/)
+- [django-annotatable-properties](https://pypi.org/project/django-annotatable-properties/)
+- [django-nginx-secure-links](https://pypi.org/project/django-nginx-secure-links/)
 
 
 ### Caching
@@ -66,13 +72,18 @@ They will be grouped by topics.
 - [django-active-users](https://pypi.org/project/django-active-users/)
 
 
+### Models
+
+- [django-remote-model](https://pypi.org/project/django-remote-model/)
+
+
 ### Storages
 
 - [django-storages](https://pypi.org/project/django-storages/)
 - [django-private-storage](https://pypi.org/project/django-private-storage/)
 
 
-### Generics
+### Generic
 
 - [django-generic-helpers](https://pypi.org/project/django-generic-helpers/)
 - [django-generic-plus](https://pypi.org/project/django-generic-plus/)

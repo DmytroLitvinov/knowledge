@@ -20,3 +20,4 @@ export CPPFLAGS="-I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/lib
 - [Learn Postgres at the Playground](https://www.crunchydata.com/blog/learn-postgres-at-the-playground)
 - [PGLoader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [Understanding the Postgres EXPLAIN cost](https://scalegrid.io/blog/postgres-explain-cost/)
+- [Scaling PostgresML to 1 Million Requests per Second](https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/)
