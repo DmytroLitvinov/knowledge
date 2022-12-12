@@ -12,6 +12,8 @@ They will be grouped by topics.
 - [django-auth-db-router](https://pypi.org/project/django-auth-db-router/)
 - [django-allauth](https://pypi.org/project/django-allauth/)
 - [django-dual-authentication](https://pypi.org/project/django-dual-authentication/)
+- [django-password-expire](https://pypi.org/project/django-password-expire/)
+- [django-single-session/](https://pypi.org/project/django-single-session/)
 
 
 ### Admin
@@ -35,7 +37,12 @@ They will be grouped by topics.
 - [django-admin-export-action](https://pypi.org/project/django-admin-export-action/)
 - [django-nested-admin](https://pypi.org/project/django-nested-admin/)
 - [django-admin-relation-links](https://pypi.org/project/django-admin-relation-links/)
-- [django-command-palette](https://pypi.org/project/django-command-palette/) - 
+- [django-command-palette](https://pypi.org/project/django-command-palette/)
+
+
+### Migration
+
+- [django-migration-rollback](https://pypi.org/project/django-migration-rollback/)
 
 
 ### PostgreSQL specific
@@ -87,3 +94,8 @@ They will be grouped by topics.
 
 - [django-generic-helpers](https://pypi.org/project/django-generic-helpers/)
 - [django-generic-plus](https://pypi.org/project/django-generic-plus/)
+
+
+### Payment
+
+- [django-cryptocurrency-payment](https://pypi.org/project/django-cryptocurrency-payment/)

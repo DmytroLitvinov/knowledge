@@ -19,6 +19,8 @@ Also, I use [power10k](https://github.com/romkatv/powerlevel10k) theme for it.
 
 ## Plugins
 
-- [Zsh completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-- [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for Zsh.
-- [fig](https://github.com/withfig/autocomplete) - Fig adds IDE-style autocomplete to your existing terminal. Move faster with Fig.
+- [autoupdate-zsh-plugin](https://github.com/TamCore/autoupdate-oh-my-zsh-plugins)
+- [Zsh completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh
+- [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for Zsh
+- [fig](https://github.com/withfig/autocomplete) - Fig adds IDE-style autocomplete to your existing terminal. Move faster with Fig
+- [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - ZSH plugin that reminds you to use existing aliases for commands you just typed

@@ -12,3 +12,4 @@
 - [Python Sorted Containers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [DeepL Translate](https://github.com/ptrstn/deepl-translate)
+- [Python-PDFKit: HTML to PDF wrapper](https://github.com/JazzCore/python-pdfkit)
