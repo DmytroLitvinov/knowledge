@@ -23,4 +23,5 @@ I use it daily for my Python development.
 - [Yet another emoji support](https://plugins.jetbrains.com/plugin/12512-yet-another-emoji-support)
 - [Find Pull Request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
 - [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink)
-- [https://plugins.jetbrains.com/plugin/9792-key-promoter-x](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+- [HTMX Support](https://plugins.jetbrains.com/plugin/20588-htmx-support)

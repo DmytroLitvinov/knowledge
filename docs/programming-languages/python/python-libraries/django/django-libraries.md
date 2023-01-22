@@ -7,6 +7,12 @@ title: Django libraries
 Here will be a list of packages which I find useful and can use in next projects.
 They will be grouped by topics.
 
+
+### User
+
+- [django-guest-user](https://pypi.org/project/django-guest-user/) - Allow visitors to interact with your site like a temporary user ("guest") without requiring registration.
+- [django-hijack](https://pypi.org/project/django-hijack/ - Admins can log in and work on behalf of other users without having to know their credentials.)
+
 ### Auth
 
 - [django-auth-db-router](https://pypi.org/project/django-auth-db-router/)
@@ -14,6 +20,10 @@ They will be grouped by topics.
 - [django-dual-authentication](https://pypi.org/project/django-dual-authentication/)
 - [django-password-expire](https://pypi.org/project/django-password-expire/)
 - [django-single-session/](https://pypi.org/project/django-single-session/)
+- [django-password-policies-validator](https://pypi.org/project/django-password-policies-validator/)
+- [django-auto-logout](https://pypi.org/project/django-auto-logout/) - Auto logout a user after specific time in Django.
+- [django-verified-email-field](https://pypi.org/project/django-verified-email-field/)
+- [django-mfa2](https://pypi.org/project/django-mfa2/)
 
 
 ### Admin
@@ -38,11 +48,14 @@ They will be grouped by topics.
 - [django-nested-admin](https://pypi.org/project/django-nested-admin/)
 - [django-admin-relation-links](https://pypi.org/project/django-admin-relation-links/)
 - [django-command-palette](https://pypi.org/project/django-command-palette/)
+- [django-admin-page-lock](https://pypi.org/project/django-admin-page-lock/) - Page Lock application prevents users from editing a page while it is being edited by someone else. The application is tailored to django admin implementation.
 
 
 ### Migration
 
 - [django-migration-rollback](https://pypi.org/project/django-migration-rollback/)
+- [django-migration-snapshots](https://pypi.org/project/django-migration-snapshots/)
+- [django-check-migration-wtf](https://pypi.org/project/django-check-migration-wtf/)
 
 
 ### PostgreSQL specific
@@ -61,6 +74,7 @@ They will be grouped by topics.
 - [django-pydantic-field](https://pypi.org/project/django-pydantic-field/)
 - [django-annotatable-properties](https://pypi.org/project/django-annotatable-properties/)
 - [django-nginx-secure-links](https://pypi.org/project/django-nginx-secure-links/)
+- [django-spicy-id](https://pypi.org/project/django-spicy-id/)
 
 
 ### Caching
@@ -72,6 +86,11 @@ They will be grouped by topics.
 
 - [django-cookie-law](https://pypi.org/project/django-cookie-law/)
 - [django-gdpr-solution](https://pypi.org/project/django-gdpr-solution/)
+
+
+### Forms
+
+- [django-formset](https://pypi.org/project/django-formset/)
 
 
 ### Monitoring
@@ -88,14 +107,36 @@ They will be grouped by topics.
 
 - [django-storages](https://pypi.org/project/django-storages/)
 - [django-private-storage](https://pypi.org/project/django-private-storage/)
+- [django-protected-media](https://pypi.org/project/django-protected-media/)
 
 
 ### Generic
 
 - [django-generic-helpers](https://pypi.org/project/django-generic-helpers/)
 - [django-generic-plus](https://pypi.org/project/django-generic-plus/)
+- [skip-django-generic-m2m-field](https://pypi.org/project/skip-django-generic-m2m-field/)
+- [django-generic-links](https://pypi.org/project/django-generic-links/)
 
 
 ### Payment
 
 - [django-cryptocurrency-payment](https://pypi.org/project/django-cryptocurrency-payment/)
+
+
+### Tenancy
+
+- [django-pgschemas](https://pypi.org/project/django-pgschemas/) - Multi-tenancy on Django using PostgreSQL schemas
+- [django-multi-tenant](https://github.com/CardoAI/django-multi-tenant)
+- [django-tenants-manager](https://pypi.org/project/django-tenants-manager/)
+- [django-tenant-users](https://pypi.org/project/django-tenant-users/)
+
+
+### GIS
+
+- [django-gisserver](https://pypi.org/project/django-gisserver/) - Django speaking WFS 2.0 to expose geo data.
+- [django-map-widgets](https://pypi.org/project/django-map-widgets/) - Configurable, pluggable and more user friendly map widgets for Django PostGIS fields.
+
+### Other
+
+- [django-maintenancemode](https://pypi.org/project/django-maintenancemode/)
+- [django-property-filter](https://pypi.org/project/django-property-filter/)

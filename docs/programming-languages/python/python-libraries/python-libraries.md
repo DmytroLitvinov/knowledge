@@ -13,3 +13,5 @@
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [DeepL Translate](https://github.com/ptrstn/deepl-translate)
 - [Python-PDFKit: HTML to PDF wrapper](https://github.com/JazzCore/python-pdfkit)
+- [langdetect](https://github.com/Mimino666/langdetect)
+- [coolname](https://pypi.org/project/coolname/) - Random Name and Slug Generator
