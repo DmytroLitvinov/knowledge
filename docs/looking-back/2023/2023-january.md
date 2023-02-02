@@ -9,6 +9,8 @@ describing who is Santa Claus is for children why he has reindeers and why our c
 
 Finished to watch ["Resident Alien"](https://trakt.tv/shows/resident-alien) 2nd season.
 
+And started to watch serial ["The Last of Us"](https://trakt.tv/shows/the-last-of-us).
+
 ## Work
 
 Did a 2-day strategic planning for SoftFormance where I work have been working for last 5 years.

@@ -56,6 +56,8 @@ They will be grouped by topics.
 - [django-migration-rollback](https://pypi.org/project/django-migration-rollback/)
 - [django-migration-snapshots](https://pypi.org/project/django-migration-snapshots/)
 - [django-check-migration-wtf](https://pypi.org/project/django-check-migration-wtf/)
+- [django-safemigrate](https://pypi.org/project/django-safemigrate/)
+- [django-unmigrate](https://pypi.org/project/django-unmigrate/)
 
 
 ### PostgreSQL specific
@@ -64,6 +66,7 @@ They will be grouped by topics.
 - [django-pgtransaction](https://pypi.org/project/django-pgtransaction/)
 - [django-postgres-metrics](https://pypi.org/project/django-postgres-metrics/)
 - [django-pgactivity](https://pypi.org/project/django-pgactivity/)
+- [django-generate-series](https://pypi.org/project/django-generate-series/)
 
 
 ### Fields
