@@ -9,7 +9,7 @@ I use it daily for my Python development.
 ## Nice plugins
 
 - [.env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
-- [CSV](https://plugins.jetbrains.com/plugin/10037-csv)
+- [CSV Editor](https://plugins.jetbrains.com/plugin/10037-csv)
 - [Rainbow CSV](https://plugins.jetbrains.com/plugin/12896-rainbow-csv)
 - [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
 - [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
@@ -25,3 +25,4 @@ I use it daily for my Python development.
 - [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink)
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 - [HTMX Support](https://plugins.jetbrains.com/plugin/20588-htmx-support)
+- [CodiumAI](https://plugins.jetbrains.com/plugin/21206-codiumai--meaningful-tests-powered-by-testgpt-1-and-gpt-3-5-4)

@@ -17,3 +17,6 @@ I do monthly reflections on life here.
 ## 2023
 
 - [January](2023/2023-january.md)
+- [February](2023/2023-february.md)
+- [March](2023/2023-march.md)
+- [April](2023/2023-april.md)

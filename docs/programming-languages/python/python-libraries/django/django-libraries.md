@@ -49,7 +49,13 @@ They will be grouped by topics.
 - [django-admin-relation-links](https://pypi.org/project/django-admin-relation-links/)
 - [django-command-palette](https://pypi.org/project/django-command-palette/)
 - [django-admin-page-lock](https://pypi.org/project/django-admin-page-lock/) - Page Lock application prevents users from editing a page while it is being edited by someone else. The application is tailored to django admin implementation.
+- [django-admin-numeric-filter](https://pypi.org/project/django-admin-numeric-filter/)
+- [django-more-admin-filters](https://pypi.org/project/django-more-admin-filters/)
 
+
+### Development & Debugging
+
+- [django-cbv-inspect](https://pypi.org/project/django-cbv-inspect/)
 
 ### Migration
 
@@ -67,6 +73,7 @@ They will be grouped by topics.
 - [django-postgres-metrics](https://pypi.org/project/django-postgres-metrics/)
 - [django-pgactivity](https://pypi.org/project/django-pgactivity/)
 - [django-generate-series](https://pypi.org/project/django-generate-series/)
+- [django-range-merge](https://pypi.org/project/django-range-merge/)
 
 
 ### Fields
@@ -78,6 +85,12 @@ They will be grouped by topics.
 - [django-annotatable-properties](https://pypi.org/project/django-annotatable-properties/)
 - [django-nginx-secure-links](https://pypi.org/project/django-nginx-secure-links/)
 - [django-spicy-id](https://pypi.org/project/django-spicy-id/)
+
+
+### Celery
+
+- [django-celery-progress](https://pypi.org/project/django-celery-progress/
+- [djangoceleryrpc](https://pypi.org/project/djangoceleryrpc/)
 
 
 ### Caching
@@ -139,7 +152,13 @@ They will be grouped by topics.
 - [django-gisserver](https://pypi.org/project/django-gisserver/) - Django speaking WFS 2.0 to expose geo data.
 - [django-map-widgets](https://pypi.org/project/django-map-widgets/) - Configurable, pluggable and more user friendly map widgets for Django PostGIS fields.
 
+### QuerySets
+
+- [django-querysetsequence](https://pypi.org/project/django-querysetsequence/) - Chain together multiple (disparate) QuerySets to treat them as a single QuerySet.
+
 ### Other
 
 - [django-maintenancemode](https://pypi.org/project/django-maintenancemode/)
 - [django-property-filter](https://pypi.org/project/django-property-filter/)
+- [django-hype](https://pypi.org/project/django-hype/) - Referral links for Django
+- [djangokit](https://gitlab.com/djbaldey/djangokit) - A set of extensions for Django used in the construction of complex web applications
