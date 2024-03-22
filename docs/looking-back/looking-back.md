@@ -20,3 +20,11 @@ I do monthly reflections on life here.
 - [February](2023/2023-february.md)
 - [March](2023/2023-march.md)
 - [April](2023/2023-april.md)
+- [May](2023/2023-may.md)
+- [June](2023/2023-june.md)
+
+## 2024
+
+- [January](2024/2024-january.md)
+- [February](2024/2024-february.md)
+- [March](2024/2024-march.md)

@@ -23,6 +23,9 @@ from [PEP 484](https://peps.python.org/pep-0484/) which provides the standard se
 - [Use immutable collections as annotations whenever possible.](https://twitter.com/raymondh/status/1566569890600943616) - prefer `def sum_valid(data: Sequence[int | None]):` over `def sum_valid(data: list[int | None]):`
 - [Fully-typed Python decorator with optional arguments](https://lemonfold.io/posts/2022/dbc/typed_decorator/)
 - [Exhaustiveness Checking with Mypy](https://hakibenita.com/python-mypy-exhaustive-checking)
+- [The different uses of Python type hints (2023)](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
+- [Python Type Hints: pyastgrep case study (2023)](https://lukeplant.me.uk/blog/posts/python-type-hints-pyastgrep-case-study/)
+- [Type hinting in modern Python: The Protocol class](https://codebeez.nl/blogs/type-hinting-in-modern-python-the-protocol-class/)
 
 ## Packages
 

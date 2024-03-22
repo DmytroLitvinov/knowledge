@@ -9,3 +9,4 @@
 - [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 - [Slack System Architecture](https://medium.com/geekculture/slack-system-architecture-aa9b8cfb886e)
 - [Software Architecture & System Design: I wish I had known about this earlier…](https://medium.com/@olgamitroshyna/software-architecture-i-wish-i-had-known-about-this-earlier-4df43eae57db)
+- [What is Multitenancy? Definition of Multi-Tenant Architecture](https://stratoflow.com/multi-tenancy-architecture-definition/)

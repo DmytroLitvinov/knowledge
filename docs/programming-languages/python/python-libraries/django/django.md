@@ -27,3 +27,7 @@ Also noted at Django docs at ["Lookups that span relationships"](https://docs.dj
 - [Where to put business logic in Django?](https://forum.djangoproject.com/t/where-to-put-business-logic-in-django/282)
 - [Django Implied Relationship](https://schinckel.net/2021/07/14/django-implied-relationship/)
 - [Django models, encapsulation and data integrity](https://www.dabapps.com/blog/django-models-and-encapsulation/) - Never write to a model field or call `save()` directly. Always use model methods and manager methods for state changing operations.
+- [Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and PostgreSQL LISTEN/NOTIFY (2023)](https://valberg.dk/django-sse-postgresql-listen-notify.html)
+- [Django June by Trey Hunner (2023)](https://www.pythonmorsels.com/django-june-2023/)
+- [A settings pattern for reusable Django apps (2023)](https://overtag.dk/v2/blog/a-settings-pattern-for-reusable-django-apps/)
+- [Django admin dynamic Inline positioning (2022)](https://blog.devgenius.io/django-admin-dynamic-inline-positioning-7208596479ce)
