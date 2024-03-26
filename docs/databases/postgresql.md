@@ -25,3 +25,4 @@ export CPPFLAGS="-I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/lib
 - [Топ полезных SQL-запросов для PostgreSQL (2022)](https://habr.com/en/post/696274/)
 - [Django PostgreSQL Database Connection Pooling with PgBouncer (2023)](https://saadmk11.github.io/blog/posts/django-postgresql-database-connection-pooling-with-pgbouncer/)
 - [Some useful, non-obvious Postgres patterns](https://philbooth.me/blog/some-useful-non-obvious-postgres-patterns)
+- [Enhance your Postgres skills - crunchydata](https://www.crunchydata.com/developers/tutorials)
